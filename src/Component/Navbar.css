@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Lato&family=Prompt:wght@300&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Prompt', sans-serif;
+  font-weight: bold;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+.title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Prompt', sans-serif;
+  font-weight: bold;
+  font-size: 28px;
+  /* identical to box height */
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.iconKCN {
+  position: absolute;
+  width: 57px;
+  height: 56.51px;
+  left: 100px;
+  top: -4px;
+}
+
+.tectKCN {
+  position: absolute;
+  width: 189px;
+  height: 39px;
+  left: 140px;
+  top: 10px;
+  font-family: Prompt;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 39px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.navbar {
+  background-color: #40BA8E;
+  height: 55px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.menu-bars {
+  margin-left: 0.25rem;
+  font-size: 1.50rem;
+  background: none;
+}
+
+.nav-menu {
+  background: rgb(255, 180, 180);
+  background: linear-gradient(0deg, rgba(255, 180, 180, 1) 30%, rgba(140, 222, 192, 1) 100%);
+  width: 310px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  transition: 850ms;
+}
+
+.nav-menu.active {
+  left: 0;
+  transition: 350ms;
+}
+
+.nav-text {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 8px 0px 0px 5px;
+  list-style: none;
+  height: 55px;
+}
+
+.nav-text a {
+  text-decoration: none;
+  color: #402929;
+  font-size: 18px;
+  width: 95%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  border-radius: 0px;
+}
+
+.nav-text a:hover {
+  background-color: rgba(255, 255, 255, 0.4)!important;
+}
+
+.nav-menu-items {
+  width: 100%;
+}
+
+.navbar-toggle {
+  background-color: #40BA8E;
+  width: 100%;
+  height: 55px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+span {
+  margin-left: 16px;
+}

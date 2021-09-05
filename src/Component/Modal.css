@@ -1,0 +1,178 @@
+  .modal-background {
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.1)!important;
+    ;
+  }
+
+  .modal-backgroundForDash {
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0)!important;
+    ;
+  }
+
+  .modal-cardforget {
+    margin: 0 auto;
+    display: block;
+    margin-top: 350px;
+    width: 713px;
+    height: 312px;
+    background-color: white;
+    border-radius: 15px;
+  }
+
+  .modal-cardChangePass {
+    margin: 0 auto;
+    display: block;
+    margin-top: 250px;
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border-radius: 15px;
+  }
+
+  .modal-card {
+    margin: 0 auto;
+    display: block;
+    margin-top: 250px;
+    width: 800px;
+    height: 600px;
+    background: rgb(255, 218, 218);
+    background: linear-gradient(45deg, rgba(255, 218, 218, 1) 30%, rgba(185, 228, 212, 1) 100%);
+    border-radius: 15px;
+    overflow: auto;
+  }
+
+  .modal-cardd {
+    margin: 0 auto;
+    display: block;
+    margin-top: 250px;
+    width: 800px;
+    height: 600px;
+    background: rgb(255, 218, 218);
+    background: linear-gradient(0deg, rgba(255, 218, 218, 1) 30%, rgba(185, 228, 212, 1) 100%);
+    border-radius: 15px;
+    overflow: auto;
+  }
+
+  .modal-card2 {
+    margin: 0 auto;
+    display: block;
+    margin-top: 250px;
+    width: 713px;
+    height: 512px;
+    background-color: white;
+    border-radius: 15px;
+  }
+
+  .modal-card3 {
+    margin: 0 auto;
+    display: block;
+    margin-top: 250px;
+    width: 713px;
+    height: 512px;
+    background-color: white;
+    border-radius: 15px;
+  }
+
+  .modal-card4 {
+    margin: 0 auto;
+    display: block;
+    margin-top: 250px;
+    width: 713px;
+    height: 512px;
+    background-color: white;
+    border-radius: 15px;
+  }
+
+  .modal-cardDashOTW {
+    position: absolute;
+    margin: 0 auto;
+    display: block;
+    margin-top: 250px;
+    width: 365px;
+    height: 228px;
+    left: 1183px;
+    top: 248px;
+    background-color: rgba(255, 255, 255, 0.4)!important;
+    border-radius: 5px;
+  }
+
+  .modal-tri {
+    position: absolute;
+    width: 366px;
+    height: 479px;
+    top: 60px;
+    left: 80%;
+    border-radius: 20px;
+    background: #FFF4F2;
+    overflow: auto;
+  }
+
+  .modal-orderChart {
+    margin: 0 auto;
+    display: block;
+    margin-top: 300px;
+    width: 1200px;
+    height: 230px;
+    background-color: white;
+    border-radius: 15px;
+  }
+
+  .modal-editstock-deloredit {
+    margin: 0 auto;
+    display: block;
+    margin-top: 300px;
+    width: 550px;
+    height: 220px;
+    background-color: white;
+    border-radius: 15px;
+  }
+
+  .modal-editstock-EditInput {
+    margin: 0 auto;
+    display: block;
+    margin-top: 180px;
+    width: 763px;
+    height: 610px;
+    background: rgb(255, 218, 218);
+    background: linear-gradient(0deg, rgba(255, 218, 218, 1) 30%, rgba(185, 228, 212, 1) 100%);
+    border-radius: 30px;
+  }
+
+  .modal-cardDeleteUser {
+    margin: 0 auto;
+    display: block;
+    margin-top: 350px;
+    width: 713px;
+    height: 312px;
+    background-color: #FFF4F2;
+    border-radius: 15px;
+  }
+
+  .modal-PickingChart {
+    margin: 0 auto;
+    display: block;
+    margin-top: 100px;
+    width: 1200px;
+    height: 750px;
+    background: rgb(255, 218, 218);
+    background: linear-gradient(0deg, rgba(255, 218, 218, 1) 30%, rgba(185, 228, 212, 1) 100%);
+  }
+
+  .modal-cardCounting {
+    margin: 0 auto;
+    display: block;
+    margin-top: 350px;
+    width: 650px;
+    height: 280px;
+    background-color: white;
+    border-radius: 15px;
+  }
