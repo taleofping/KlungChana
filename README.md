@@ -5,6 +5,4 @@ Software Engineering Class’s project (Work in groups)
 - Open terminal in this folder and type "npm i" command
 - "npm start" to run website in localhost
 
-*need email and password to loging in
-*Email : ping@gmail.com
-*Password : 1124
+*need email and password to loging in, Email : ping@gmail.com Password : 1124
